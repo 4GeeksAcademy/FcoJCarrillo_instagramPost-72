@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.mainCajita{
+    background-color: white;
+    margin: 3% 10% 3% 30%;
+    width: 600px;
+    
+
+/*     height: 20px;
+    width: 50%;
+    align-items: center; */
+}
+.post_header {
+    display: flex;
+    width: 100%;
+    padding: 2%;
+}
+div.post_header div.ladoIzquierdo {
+
+    width: 95%;
+    display: flex;
+
+}
+div.post_header div.ladoDerecho {
+
+    width: 5%;
+}
+.post_footer i {
+    justify-content: space-between;
+    margin-left: 1%;
+}
+.fa-bookmark{
+    float: right;
+    margin-right: 1%;
+}
+
+.footer_derecha i{
+    float: right;
+}
+.post_img{
+    width: 100%;
+}
+.post_img img{
+    width: 100%;
+}
+.ladoIzquierdo p{
+    margin: 0;
+    text-align: center;
+}
+.text{
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+.footer_derecha p{
+    padding: 2% 2% 2% 2%;
+}
+i {
+    font-size: 200%;
+}
+.title{
+    font-size: 200%;
+}
+#first{
+    color:black;
+}
